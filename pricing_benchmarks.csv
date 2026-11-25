@@ -1,0 +1,14 @@
+service,keywords,max_amount
+Appendectomy,appendectomy|appendicectomy,90000
+Cataract surgery,cataract,60000
+Knee replacement,knee replacement,250000
+Normal delivery,normal delivery,60000
+Caesarean section,caesarean|c-section|cesarean,110000
+MRI scan,mri,9000
+CT scan,ct scan|ct-scan,6000
+X-ray,x-ray|xray,800
+ECG,ecg,500
+Complete blood count,blood count|cbc,600
+Ambulance,ambulance,3000
+Specialist consultation,consultation,1500
+Dialysis session,dialysis,3000

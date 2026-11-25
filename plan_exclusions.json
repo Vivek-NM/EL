@@ -1,0 +1,40 @@
+{
+  "tiers": {
+    "Basic": [
+      "cosmetic",
+      "dental",
+      "spectacle",
+      "maternity",
+      "infertility",
+      "vitamin",
+      "supplement"
+    ],
+    "Silver": [
+      "cosmetic",
+      "dental",
+      "spectacle",
+      "infertility",
+      "vitamin",
+      "supplement"
+    ],
+    "Gold": [
+      "cosmetic",
+      "spectacle",
+      "hearing aid",
+      "infertility"
+    ],
+    "Platinum": [
+      "cosmetic",
+      "experimental"
+    ]
+  },
+  "non_payable": [
+    "registration",
+    "admission fee",
+    "service charge",
+    "gloves",
+    "mask",
+    "toiletries",
+    "attendant"
+  ]
+}
