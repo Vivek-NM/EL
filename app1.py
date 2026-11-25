@@ -5,7 +5,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 import streamlit as st
-from google import genai
+#from google import genai
 
 import claimlogic as cl
 import knowledge as kb
